@@ -16,7 +16,7 @@
     "test",
     "integration"
   ],
-  "author": "Naufal Athallah",
+  "author": "Naufal Athallah, Justin Dewangga",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/naufalathallah/wdio-zephyr-integration/issues"
