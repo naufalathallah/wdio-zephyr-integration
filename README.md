@@ -10,6 +10,8 @@ Install the package using npm:
 npm install wdio-zephyr-integration
 ```
 
+**Note:** This package uses CommonJS modules. Ensure that your WebdriverIO configuration (`wdio.conf.js`) supports CommonJS imports.
+
 ## Configuration
 
 Create a .env file in your project root directory and add the following environment variables:
@@ -29,7 +31,7 @@ Replace the placeholder values with your actual Zephyr Scale configuration.
 
 ## Usage
 
-In your WebdriverIO configuration file (e.g., wdio.conf.js), import (common js) and use the handleTestResult function from the package in the afterTest hook:
+In your WebdriverIO configuration file (e.g., wdio.conf.js), import and use the handleTestResult function from the package in the afterTest hook:
 
 ```javascript
 const { handleTestResult } = require("wdio-zephyr-integration");
