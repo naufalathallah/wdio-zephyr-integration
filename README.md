@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalathallah&repo=wdio-zephyr-integration&label=Repo%20views&color=0e75b6&style=flat" alt="wdio-zephyr-integration" /> </p>
+[![GitHub stars](https://img.shields.io/github/stars/naufalathallah/wdio-zephyr-integration?style=social)](https://github.com/naufalathallah/wdio-zephyr-integration/stargazers)
 
 # wdio-zephyr-integration
 
