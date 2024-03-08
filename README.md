@@ -1,6 +1,6 @@
 # wdio-zephyr-integration
 
-This package provides an integration between WebdriverIO and Zephyr Scale (formerly Zephyr for Jira) to report automated test execution results.
+This package provides an integration between WebdriverIO and Zephyr Scale (Jira Cloud) to report automated test execution results.
 
 ## Installation
 
@@ -71,4 +71,4 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 ## License
 
-This project is licensed under the ISC License - see the [LICENSE](https://github.com/naufalathallah/wdio-zephyr-integration/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/naufalathallah/wdio-zephyr-integration/blob/main/LICENSE) file for details.
