@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalathallah&repo=wdio-zephyr-integration&label=Repo%20views&color=0e75b6&style=flat" alt="wdio-zephyr-integration" /> </p>
+
 # wdio-zephyr-integration
 
 This package provides an integration between WebdriverIO and Zephyr Scale (Jira Cloud) to report automated test execution results.
