@@ -63,7 +63,6 @@ describe("My Test Suite", async () => {
 });
 ```
 
-```markdown
 ## Contributing
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/naufalathallah/wdio-zephyr-integration/issues) on GitHub.
@@ -71,4 +70,3 @@ If you encounter any issues or have suggestions for improvements, please [open a
 ## License
 
 This project is licensed under the ISC License - see the [LICENSE](https://github.com/naufalathallah/wdio-zephyr-integration/blob/main/LICENSE) file for details.
-```
