@@ -22,6 +22,6 @@
     "url": "https://github.com/naufalathallah/wdio-zephyr-integration/issues"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^1.4.0"
   }
 }
