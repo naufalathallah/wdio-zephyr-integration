@@ -1,11 +1,27 @@
 {
   "name": "wdio-zephyr-integration",
   "version": "1.0.0",
-  "description": "wdio to zehpyr integration",
+  "description": "Integration between WebdriverIO and Zephyr Scale for test result reporting.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "naufalathallah",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naufalathallah/wdio-zephyr-integration.git"
+  },
+  "keywords": [
+    "webdriverio",
+    "zephyr",
+    "test",
+    "integration"
+  ],
+  "author": "Naufal Athallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufalathallah/wdio-zephyr-integration/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
